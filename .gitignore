@@ -1,0 +1,10 @@
+/.mypy_cache/
+/bin/
+/env.sh
+/notes/
+/obj/
+/typepos
+/.vscode/
+*.class
+*.kexe
+target/
